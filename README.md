@@ -1,13 +1,8 @@
-## A coin sorting program using Java
-# CoinSorter.java is a a non-GUI program
-# CoinSorterGUI.java is a GUI program inherited from CoinSorter.java
+# A coin sorting program using Java
+## CoinSorter.java is a a non-GUI program
+## CoinSorterGUI.java is a GUI program inherited from CoinSorter.java
 
-The following coins (in order of priority) are in circulation in the scope of this program:
-• £2 (equivalent to 200p)
-• £1 (equivalent to 100p)
-• 50p
-• 20p
-• 10p
+The coins (in order of priority) that are in circulation in the scope of this program are £2 (equivalent to 200p), £1 (equivalent to 100p), 50p, 20p and 10p.
 
 
 The minimum input value for exchange in pennies is 0 (inclusive). The maximum input value for exchange in pennies is capped at 10,000 (inclusive).
