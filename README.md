@@ -1,5 +1,6 @@
 # A coin sorting program using Java
 CoinSorter.java: non-GUI program
+
 CoinSorterGUI.java: GUI program inherited from CoinSorter.java
 
 The coins (in order of priority) that are in circulation in the scope of this program are £2 (equivalent to 200p), £1 (equivalent to 100p), 50p, 20p and 10p.
